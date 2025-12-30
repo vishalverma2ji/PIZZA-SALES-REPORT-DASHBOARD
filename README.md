@@ -45,8 +45,7 @@ To convert raw sales data into **actionable insights** that help businesses:
 
 ---
 # IMAGES
-(https://github.com/user-attachments/assets/514191c2-5926-4cec-a693-bb1420326ba7)
+<img width="1334" height="864" alt="Screenshot 2025-12-29 170749" src="https://github.com/user-attachments/assets/3a9c7ab5-8423-4efd-8b37-b56befc9ed22" />
 
-(https://github.com/user-attachments/assets/ea9ecbca-1ab8-4de7-a1cb-02120d6a2bf0)
-
+<img width="1229" height="844" alt="Screenshot 2025-12-29 170915" src="https://github.com/user-attachments/assets/4143a60a-01cf-42ce-8b08-b6a15b26f3f9" />
 
